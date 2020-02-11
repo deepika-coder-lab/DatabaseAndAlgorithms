@@ -1,5 +1,3 @@
-package practise;
-
 public class HouseTheifProblem {
 
 	static int maxMoney(int[] house) {
