@@ -1,5 +1,3 @@
-package practise;
-
 import java.util.Arrays;
 
 public class CoinChangeProblem {
