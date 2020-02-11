@@ -1,5 +1,3 @@
-package practise;
-
 public class NumberFactor {
 
 	static int wayTogetNumber_DC(int n) {
