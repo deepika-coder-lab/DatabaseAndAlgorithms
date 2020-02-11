@@ -1,5 +1,3 @@
-package practise;
-
 public class ConvertOneStringtoAnother {
 
 	static int minimumEdit(String str1, String str2)
